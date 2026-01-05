@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jonathan 👋
 
-Soy **Jonathan**, estudiante de **Ingeniería Informática** en mi 3er año. Me apasiona la tecnología y el desarrollo backend, y siempre estoy buscando aprender y enfrentarme a nuevos desafíos.
+Soy **Jonathan**, estudiante de **Ingeniería Informática**. Me apasiona la tecnología y el desarrollo backend, y siempre estoy buscando aprender y enfrentarme a nuevos desafíos.
 
 ## Lenguajes principales
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
